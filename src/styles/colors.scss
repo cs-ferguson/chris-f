@@ -1,0 +1,20 @@
+:root{
+  --yellow: #FFC15E;
+  --rajah-two: #F7B05B;
+  --pewter-blue: #93b7be;
+  --crimson: #B10F2E;
+  --light-grey: #ededef;
+  --dark-grey: #404040;
+  --black: #000;
+
+
+  --gradient-one: linear-gradient(160deg, #fff, var(--light-grey) );
+  --gradient-two: linear-gradient(160deg, var(--black), var(--dark-grey) );
+
+
+  --bg-color: var(--gradient-one);
+  --font-main: var(--black);
+  --font-two: var(--dark-grey);
+  --highlight-one: var(--yellow);
+
+}
